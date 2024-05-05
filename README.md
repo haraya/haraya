@@ -8,27 +8,26 @@ Mi objetivo es seguir explorando y aprendiendo nuevas técnicas y herramientas p
 <br><br>
 
 ### Contact:
-<section>
-    <div class="container text-center">
-      <div class="row">
-        <div class="col-md-4 mb-4">
-          <a href="mailto:hernan.araya96@outlook.com">
-            <img src="email.png" alt="Email" width="100">
-            <h4>Email</h4>
-          </a>  
+<section style="text-align: center;">
+    <div style="display: flex; justify-content: center;">
+        <div style="margin-right: 20px;">
+            <a href="mailto:hernan.araya96@outlook.com">
+                <img src="email.png" alt="Email" width="100">
+                <h4>Email</h4>
+            </a>  
         </div>
-        <div class="col-md-4 mb-4">
-          <a href="https://github.com/haraya">
-            <img src="github.png" alt="GitHub" width="100">
-            <h4>GitHub</h4>
-          </a>
+        <div style="margin-right: 20px;">
+            <a href="https://github.com/haraya">
+                <img src="github.png" alt="GitHub" width="100">
+                <h4>GitHub</h4>
+            </a>
         </div>
-        <div class="col-md-4 mb-4">
-          <a href="https://www.linkedin.com/in/haraya20/">
-            <img src="linkedin.png" alt="LinkedIn" width="100">
-            <h4>LinkedIn</h4>
-          </a>
+        <div>
+            <a href="https://www.linkedin.com/in/haraya20/">
+                <img src="linkedin.png" alt="LinkedIn" width="100">
+                <h4>LinkedIn</h4>
+            </a>
         </div>
-      </div>
     </div>
 </section>
+
