@@ -19,8 +19,13 @@ Mi objetivo es seguir explorando y aprendiendo nuevas técnicas y herramientas p
      </a>
 </h4>
 <h4>
-     <a href="[https://github.com/haraya](https://haraya.github.io/harayaL/)" style="text-align: center;">
+     <a href="https://haraya.github.io/harayaL/" style="text-align: center;">
      🌐🚀 Website: harayaL
+     </a>
+</h4>
+<h4>
+     <a href="https://www.linkedin.com/in/haraya20/" style="text-align: center;">
+     💼🧑🏻‍💻 Linkedin: haraya20
      </a>
 </h4>
 
