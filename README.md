@@ -9,21 +9,18 @@ Mi objetivo es seguir explorando y aprendiendo nuevas técnicas y herramientas p
 ##Contact:
 <section>
     <div class="container text-center">
-      <h2>Contacto</h2>
       <div class="row">
         <div class="col-md-4 mb-4">
           <a href="mailto:hernan.araya96@outlook.com">
             <img src="email.png" alt="Email" width="100">
             <h4>Email</h4>
-          </a>
-         
+          </a>  
         </div>
         <div class="col-md-4 mb-4">
           <a href="https://github.com/haraya">
             <img src="github.png" alt="GitHub" width="100">
             <h4>GitHub</h4>
           </a>
-          
         </div>
         <div class="col-md-4 mb-4">
           <a href="https://www.linkedin.com/in/haraya20/">
@@ -33,4 +30,4 @@ Mi objetivo es seguir explorando y aprendiendo nuevas técnicas y herramientas p
         </div>
       </div>
     </div>
-  </section>
+</section>
