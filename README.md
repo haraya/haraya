@@ -20,3 +20,6 @@ Mi objetivo es seguir explorando y aprendiendo nuevas técnicas y herramientas p
         </a>
     </div>
 </section>
+![image](https://github.com/haraya/haraya/assets/58577750/91eccfd6-b4e5-439e-a1f6-c9945b3a080d)
+![image](https://github.com/haraya/haraya/assets/58577750/b8af2ff9-25a1-4140-840a-f319a5293fe7)
+
