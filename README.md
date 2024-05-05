@@ -30,23 +30,5 @@ Mi objetivo es seguir explorando y aprendiendo nuevas técnicas y herramientas p
           </a>
         </div>
       </div>
-      <div class="row">
-        <div class="col-md-4 mb-4">
-          <a href="mailto:hernan.araya96@outlook.com">
-            <h4>Email</h4>
-          </a>  
-        </div>
-        <div class="col-md-4 mb-4">
-          <a href="https://github.com/haraya">
-            <h4>GitHub</h4>
-          </a>
-        </div>
-        <div class="col-md-4 mb-4">
-          <a href="https://www.linkedin.com/in/haraya20/">
-            <h4>LinkedIn</h4>
-          </a>
-        </div>
-      </div>
     </div>
 </section>
-
