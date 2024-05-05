@@ -11,12 +11,12 @@ Mi objetivo es seguir explorando y aprendiendo nuevas técnicas y herramientas p
 ### Contacto:
 <h4>
      <a href="mailto:hernan.araya96@outlook.com" style="text-align: center;">
-     📧 Email 
+     📧 Email: hernan.araya96@outlook.com
      </a>
 </h4>
 <h4>
      <a href="https://github.com/haraya" style="text-align: center;">
-     📚 GitHub 
+     📚 GitHub: github.com/haraya
      </a>
 </h4>
 <h4>
