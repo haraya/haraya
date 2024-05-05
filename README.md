@@ -21,8 +21,6 @@ Mi objetivo es seguir explorando y aprendiendo nuevas técnicas y herramientas p
                 <img src="github.png" alt="GitHub" width="100">
                 <h4>GitHub</h4>
             </a>
-        </div>
-        <div>
             <a href="https://www.linkedin.com/in/haraya20/">
                 <img src="linkedin.png" alt="LinkedIn" width="100">
                 <h4>LinkedIn</h4>
