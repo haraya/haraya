@@ -7,7 +7,7 @@ Mi objetivo es seguir explorando y aprendiendo nuevas técnicas y herramientas p
 <br>¡Explora mi repositorio para conocer más sobre mis proyectos!💻🛠️ 📊 🧠 💡 🚀 🔍 📚 
 <br><br>
 
-### Contact:
+### Contacto:
 <h4>
      <a href="mailto:hernan.araya96@outlook.com" style="text-align: center;">
      📧 Email 
