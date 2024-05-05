@@ -11,11 +11,11 @@ Mi objetivo es seguir explorando y aprendiendo nuevas técnicas y herramientas p
 <section>
     <div align="center">
         <a href="mailto:hernan.araya96@outlook.com" style="display: flex; text-align: center; margin-right: 20px;">
-            <img src="email.png" alt="Email" width="100"><br>
+            <img src="email.png" alt="Email" width="100">
             <h4>Email</h4>
         </a>
         <a href="https://github.com/haraya" style="display: flex; text-align: center;">
-            <img src="github.png" alt="GitHub" width="100"><br>
+            <img src="github.png" alt="GitHub" width="100">
             <h4>GitHub</h4>
         </a>
     </div>
