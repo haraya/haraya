@@ -8,11 +8,21 @@ Mi objetivo es seguir explorando y aprendiendo nuevas técnicas y herramientas p
 <br><br>
 
 ### Contact:
-<a href="mailto:hernan.araya96@outlook.com" style="display: flex; text-align: center; margin-right: 20px;">
-     <h4> 📚 Email</h4>
-</a>
-<a href="https://github.com/haraya" style="display: flex; text-align: center;">
-    <h4>GitHub</h4>
-</a>
+<h4>
+     <a href="mailto:hernan.araya96@outlook.com" style="text-align: center;">
+     📧 Email 
+     </a>
+</h4>
+<h4>
+     <a href="https://github.com/haraya" style="text-align: center;">
+     📚 GitHub 
+     </a>
+</h4>
+<h4>
+     <a href="[https://github.com/haraya](https://haraya.github.io/harayaL/)" style="text-align: center;">
+     🌐🚀 Website: harayaL
+     </a>
+</h4>
+
 
 
