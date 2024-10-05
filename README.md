@@ -21,12 +21,12 @@ Mi objetivo es seguir explorando y aprendiendo nuevas técnicas y herramientas p
 </h4>
 <h4>
      <a href="https://hdesarrollocr.com/" style="text-align: center;">
-     🌐🚀 Website: harayaL
+     🌐🚀 Website: HDesarrollocr
      </a>
 </h4>
 <h4>
-     <a href="https://www.linkedin.com/in/haraya20/" style="text-align: center;">
-     💼🧑🏻‍💻 Linkedin: haraya20
+     <a href="https://www.linkedin.com/in/hernanarayalopez/" style="text-align: center;">
+     💼🧑🏻‍💻 Linkedin: Hernán Araya L.
      </a>
 </h4>
 
