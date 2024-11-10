@@ -1,6 +1,6 @@
 ### Hola, Bienvenid@ 👋
 <p style="text-align: center;">
-I am Hernán, I am Computer Engineering and Freelancer with experience in software development, process automation, and data analysis. <br>
+I am Hernán, I am <strong>Computer Engineering</strong> and <strong>Freelancer</strong> with experience in software development, process automation, and data analysis. <br>
 Currently, I am focused on applying my knowledge and skills in the areas of <strong>Data Analysis</strong>, <strong>Data Science</strong>, <strong>Machine learning</strong>, and <strong>Artificial Intelligence</strong> to solve complex problems and generate knowledge from data. <br>
 My goal is to continue exploring and learning new techniques and tools to drive innovation and progress in these fascinating fields.
 <br>¡Explore my repository to learn more about my projects!💻🛠️ 📊 🧠 💡 🚀 🔍 📚 
