@@ -1,14 +1,13 @@
 ### Hola, Bienvenid@ 👋
 <p style="text-align: center;">
-Soy Hernán , estudiante de último año de Ingeniería en Informática con experiencia en desarrollo de software, automatización de procesos y análisis de datos <br>
-Actualmente, estoy enfocado en aplicar mis conocimiento y  habilidades en las áreas  de
-<strong>análisis de datos</strong>, la <strong>ciencia de datos</strong>, el <strong>machine learning</strong> y la <strong>inteligencia artificial</strong> para resolver problemas complejos y generar conocimiento a partir de los datos.  <br>
-Mi objetivo es seguir explorando y aprendiendo nuevas técnicas y herramientas para impulsar la innovación y el progreso en estos campos fascinantes. 
-<br>¡Explora mi repositorio para conocer más sobre mis proyectos!💻🛠️ 📊 🧠 💡 🚀 🔍 📚 
+I am Hernán, I am Computer Engineering and Freelancer with experience in software development, process automation, and data analysis. <br>
+Currently, I am focused on applying my knowledge and skills in the areas of <strong>Data Analysis</strong>, <strong>Data Science</strong>, <strong>Machine learning</strong>, and <strong>artificial intelligence</strong> to solve complex problems and generate knowledge from data. <br>
+My goal is to continue exploring and learning new techniques and tools to drive innovation and progress in these fascinating fields.
+<br>¡Explore my repository to learn more about my projects!💻🛠️ 📊 🧠 💡 🚀 🔍 📚 
 <br><br>
  </p>
 
-### Contacto:
+### Contact:
 <h4>
      <a href="mailto:hernan.araya96@outlook.com" style="text-align: center;">
      📧 Email: hernan.araya96@outlook.com
