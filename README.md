@@ -1,4 +1,4 @@
-### Hola, Bienvenid@ 👋
+### Hi 👋
 <p style="text-align: center;">
 I am Hernán, I am <strong>Computer Engineering</strong> with experience in software development, process automation, and data analysis. <br>
 Currently, I am focused on applying my knowledge and skills in the areas of <strong>Data Analysis</strong>, <strong>Data Science</strong>, <strong>Machine learning</strong>, and <strong>Artificial Intelligence</strong> to solve complex problems and generate knowledge from data. <br>
