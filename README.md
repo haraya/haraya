@@ -1,9 +1,16 @@
 ### Hi 👋
 <p style="text-align: center;">
-I am Hernán, I am <strong>Computer Engineering</strong> with experience in software development, process automation, and data analysis. <br>
-Currently, I am focused on applying my knowledge and skills in the areas of <strong>Data Analysis</strong>, <strong>Data Science</strong>, <strong>Machine learning</strong>, and <strong>Artificial Intelligence</strong> to solve complex problems and generate knowledge from data. <br>
-My goal is to continue exploring and learning new techniques and tools to drive innovation and progress in these fascinating fields.
-<br>¡Explore my repository to learn more about my projects!💻🛠️ 📊 🧠 💡 🚀 🔍 📚 
+👋 Hi, I'm Hernán — Computer Engineer with experience in process automation and software development.
+
+<br>🔍 I'm currently focusing on Data Analysis and Business Intelligence using Python, Pandas, Power BI, and SQL.<br>
+
+<br>💡 My goal is to solve real-world problems through data insights, and I'm building this portfolio to showcase my learning journey and practical applications in analytics and machine learning.<br>
+
+<br>📌 I’m working on projects that combine automation, data visualization, and predictive modeling.<br>
+
+<br>🚀 I'm open to remote opportunities and collaborations, especially in data-driven roles.<br>
+
+<br>💼 Let’s connect and grow together in this exciting world of data!<br>
 <br><br>
  </p>
 
