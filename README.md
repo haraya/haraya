@@ -19,8 +19,8 @@ My goal is to continue exploring and learning new techniques and tools to drive 
      </a>
 </h4>
 <h4>
-     <a href="https://hdesarrollocr.com/" style="text-align: center;">
-     🌐🚀 Website: HDesarrollocr
+     <a href="https://www.datascienceportfol.io/hernanaraya" style="text-align: center;">
+     🌐🚀 Website: datascienceportfol.io/hernanaraya
      </a>
 </h4>
 <h4>
