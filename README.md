@@ -1,13 +1,18 @@
 ### 👋 Hi, I'm Hernán
 <p style="text-align: center;">
-🖥️🤖Computer Engineer with experience in process automation and software development.<br>
-<br>🔍 I'm currently focusing on Data Analysis and Business Intelligence using Python, Pandas, Power BI, and SQL.<br>
-<br>💡 My goal is to solve real-world problems through data insights, and I'm building this portfolio to showcase my learning journey and practical applications in analytics and machine learning.<br>
-<br>📌 I’m working on projects that combine automation, data visualization, and software.<br>
-<br>🚀 I'm open to remote opportunities and collaborations, especially in data-driven roles.<br>
-<br>💼 Let’s connect and grow together in this exciting world of data!<br>
-<br><br>
- </p>
+🖥️🤖 Software / Computer Engineer focused on automation-driven solutions and backend development.<br><br>
+
+🔧 I build software and automation workflows using Python, APIs, SQL, and system integrations to reduce manual effort and improve business processes.<br><br>
+
+⚙️ My projects often involve backend logic, data handling, and automation, combining scripting with practical software engineering principles.<br><br>
+
+🏢 I have experience working in enterprise environments, collaborating with cross-functional teams, and translating real business needs into technical solutions.<br><br>
+
+🚀 This GitHub is my space to showcase hands-on projects in automation, data processing, system integration, and continuous learning toward scalable software development.<br><br>
+
+💡 Open to remote opportunities and collaborations where automation, backend logic, and data-driven systems are key.
+</p>
+
  
 ### Contact:
 <h4>
@@ -20,11 +25,7 @@
      📚 GitHub: github.com/haraya
      </a>
 </h4>
-<h4>
-     <a href="https://www.datascienceportfol.io/hernanaraya" style="text-align: center;">
-     🌐🚀 Website: datascienceportfol.io/hernanaraya
-     </a>
-</h4>
+
 <h4>
      <a href="https://www.linkedin.com/in/hernanarayalopez/" style="text-align: center;">
      💼🧑🏻‍💻 Linkedin: Hernán Araya L.
