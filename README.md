@@ -2,7 +2,6 @@
 
 <p style="text-align: center;">
 
- ##  🧭 Where I've Been
  ---
  ## 🔄 From Process Automation → Data Engineering
 
