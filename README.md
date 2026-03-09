@@ -84,7 +84,7 @@ Remote opportunities and collaborations in **Data Engineering**, **Analytics Eng
 </p>
 
  
-### Contact:
+## 📞 Contact:
 <h4>
      <a href="mailto:hernan.araya96@outlook.com" style="text-align: center;">
      📧 Email: hernan.araya96@outlook.com
