@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Hernán
 <p style="text-align: center;">
-## 🔄 From Process Automation → Data Engineering
+ ## 🔄 From Process Automation → Data Engineering
 
 With **5+ years of hands-on experience** building automation solutions in enterprise environments (HPE, P&G), I'm now channeling that foundation into **Data Engineering** — designing pipelines, transforming data at scale, and building systems that turn raw information into reliable insights.
 
@@ -49,13 +49,13 @@ Other:         Blazor · WordPress · QGIS · SharePoint
 
 ##  💼 Professional Experience Highlights
 
-**P&G — Process Automation** *(Aug 2025 – Present)*
+**P&G — Process Automation** *(Aug 2025 – Present)* <br><br>
 Automating supply chain workflows involving Excel + SharePoint + Power BI. Building dashboards that track OOQ savings by region and vendor with automated email delivery.
 
-**HPE — Process Automation** *(Sep 2021 – Jul 2023)*
+**HPE — Process Automation** *(Sep 2021 – Jul 2023)*<br><br>
 Developed internal tools and automations: multi-platform sync via APIs, Excel transformation pipelines, and PowerPoint generation from live data — all in enterprise-grade C# and SQL.
 
-**UNED — LIIT Lab** *(Sep 2016 – Dec 2019)*
+**UNED — LIIT Lab** *(Sep 2016 – Dec 2019)*<br><br>
 Processed geospatial data using QGIS + PostGIS + PostgreSQL. Built and maintained web platforms. Documented end-to-end data ingestion workflows.
 
 ---
