@@ -49,13 +49,13 @@ Other:         Blazor · WordPress · QGIS · SharePoint
 
 ##  💼 Professional Experience Highlights
 
-**P&G — Process Automation** *(Aug 2025 – Present)* <br><br>
+**P&G — Process Automation** *(Aug 2025 – Present)* <br>
 Automating supply chain workflows involving Excel + SharePoint + Power BI. Building dashboards that track OOQ savings by region and vendor with automated email delivery.
 
-**HPE — Process Automation** *(Sep 2021 – Jul 2023)*<br><br>
+**HPE — Process Automation** *(Sep 2021 – Jul 2023)*<br>
 Developed internal tools and automations: multi-platform sync via APIs, Excel transformation pipelines, and PowerPoint generation from live data — all in enterprise-grade C# and SQL.
 
-**UNED — LIIT Lab** *(Sep 2016 – Dec 2019)*<br><br>
+**UNED — LIIT Lab** *(Sep 2016 – Dec 2019)*<br>
 Processed geospatial data using QGIS + PostGIS + PostgreSQL. Built and maintained web platforms. Documented end-to-end data ingestion workflows.
 
 ---
