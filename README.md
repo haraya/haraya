@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Hernán
+# 👋 Hi, I'm Hernán Araya
 
 <p style="text-align: center;">
 
