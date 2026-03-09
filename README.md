@@ -6,7 +6,7 @@ With **5+ years of hands-on experience** building automation solutions in enterp
 
 ---
 
-## 🧭 Where I've Been
+##  🧭 Where I've Been
 
 As a **Process Automation Developer**, I've built solutions that eliminated hundreds of hours of manual work:
 
@@ -20,7 +20,7 @@ As a **Process Automation Developer**, I've built solutions that eliminated hund
 
 ---
 
-## 🚀 Where I'm Going
+##  🚀 Where I'm Going
 
 I'm actively building skills and projects in:
 
@@ -35,7 +35,7 @@ I'm actively building skills and projects in:
 
 ---
 
-## 🛠️ Tech Background
+##  🛠️ Tech Background
 
 ```
 Languages:     Python · C# · SQL · JavaScript
@@ -47,7 +47,7 @@ Other:         Blazor · WordPress · QGIS · SharePoint
 
 ---
 
-## 💼 Professional Experience Highlights
+##  💼 Professional Experience Highlights
 
 **P&G — Process Automation** *(Aug 2025 – Present)*
 Automating supply chain workflows involving Excel + SharePoint + Power BI. Building dashboards that track OOQ savings by region and vendor with automated email delivery.
@@ -60,7 +60,7 @@ Processed geospatial data using QGIS + PostGIS + PostgreSQL. Built and maintaine
 
 ---
 
-## 📌 What You'll Find Here
+##  📌 What You'll Find Here
 
 This GitHub is my **learning-in-public** space during this transition:
 
