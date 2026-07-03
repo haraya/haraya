@@ -3,7 +3,7 @@
 <p style="text-align: center;">
 
  ---
- ## 🔄 From Process Automation → Data Engineering
+ ## 🔄 Software Engineering
 
 With **5+ years of hands-on experience** building automation solutions in enterprise environments (HPE, P&G), I'm now channeling that foundation into **Data Engineering** — designing pipelines, transforming data at scale, and building systems that turn raw information into reliable insights.
 
