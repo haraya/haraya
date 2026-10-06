@@ -23,7 +23,6 @@ I'm currently learning AWS to take my automation skills into the cloud.
 My automation work is moving to the cloud. I'm actively working on:
 
 - 🎓 Preparing for the **AWS Certified Cloud Practitioner** certification
-- 🛠️ Building a cloud portfolio project: an **AWS cost and resource auditor** in Python with boto3, developed in stages
 
 ---
 
@@ -34,7 +33,7 @@ Languages:      C# · Python · SQL · JavaScript · TypeScript
 Databases:      PostgreSQL · SQL Server · PostGIS
 Automation:     Power Automate · Power Apps · Office Scripts · Azure WebJobs · REST APIs
 BI & Reporting: Power BI · Excel
-Other:          Blazor · WordPress · SharePoint · QGIS
+Other:          Blazor · WordPress · SharePoint · QGIS · KNIME
 Cloud:          AWS (learning)
 ```
 
@@ -42,7 +41,7 @@ Cloud:          AWS (learning)
 
 ## 💼 Professional Experience
 
-➡️ **Procter & Gamble — Data Automation Engineer** *(Aug 2025 – Present)*<br>
+➡️ **Procter & Gamble — Data Automation Engineer** *(Aug 2025 – Aug 2026)*<br>
 Designed automated solutions for critical workflows, including a weekly quote review and distribution process reduced from three hours to 15–20 minutes. Developed Power BI dashboards adopted by the full team for operational decision-making.
 
 ➡️ **Hewlett Packard Enterprise — Software Developer, Process Automation** *(Sep 2021 – Jul 2023)*<br>
@@ -50,16 +49,6 @@ Built an end-to-end web application for report consolidation, developed synchron
 
 ➡️ **UNED (LIIT Lab) — Student Software Developer** *(Apr 2017 – Dec 2019)*<br>
 Built WordPress sites with Divi, customized sites with JavaScript, administered PostgreSQL + PostGIS geospatial data, and developed a CakePHP platform to centralize learning resources.
-
----
-
-## 📌 What You'll Find Here
-
-This GitHub is my **learning-in-public** space during my transition to the cloud:
-
-- ☁️ AWS projects and scripts (Python + boto3)
-- 🔧 Automation scripts and examples
-- 📚 Notes and exercises while preparing for AWS certifications
 
 ---
 
