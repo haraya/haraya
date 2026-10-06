@@ -1,106 +1,81 @@
 # 👋 Hi, I'm Hernán Araya
 
-<p style="text-align: center;">
+**Computer Engineer specializing in process automation.**
 
- ---
- ## 🔄 Software Engineering
+I automate operational processes to reduce manual work for teams at Fortune 500 companies (P&G, HPE). I design workflows using Power Automate, Power Apps, and C#, and integrate complex systems via APIs (e.g., synchronizing Azure Boards, Jira, and Smartsheet in real time).
 
-With **5+ years of hands-on experience** building automation solutions in enterprise environments (HPE, P&G), I'm now channeling that foundation into **Data Engineering** — designing pipelines, transforming data at scale, and building systems that turn raw information into reliable insights.
-
----
-
-##  🧭 Where I've Been
-
-As a **Process Automation Developer**, I've built solutions that eliminated hundreds of hours of manual work:
-
-- ⚙️ Automated cross-platform synchronization across **Smartsheet, Azure DevOps & Jira** using APIs + Azure WebJobs
-- 📊 Processed **15,000+ row Excel files** with transformation logic (deduplication, language tagging, column engineering) using C# + Blazor
-- 🔁 Built scheduled bots in **Power Automate** that read, group, and distribute data across teams at P&G every week
-- 🗄️ Worked with **PostgreSQL + PostGIS** to ingest and process geospatial data from `.shp` files
-- 📈 Developed **Power BI dashboards** to visualize savings data by region, vendor, and update cycle
-
-> These weren't just automations — they were early-stage data pipelines. Now I'm going deeper.
+I'm currently learning AWS to take my automation skills into the cloud.
 
 ---
 
-##  🚀 Where I'm Going
+## 🧭 Where I've Been
 
-I'm actively building skills and projects in:
-
-| Area | Tools & Technologies |
-|---|---|
-| Pipeline Orchestration | Apache Airflow, Prefect |
-| Data Transformation | dbt, pandas, PySpark |
-| Cloud & Storage | AWS / GCP, S3, BigQuery |
-| Databases | PostgreSQL, SQL Server, data warehousing concepts |
-| Languages | Python (primary), SQL |
-| Visualization | Power BI, Looker |
+- ⚙️ **Cross-platform integration:** synchronized **Azure Boards, Jira, and Smartsheet** (C#, SQL Server, Power Automate, Azure WebJobs) by consuming each platform's APIs, replacing a manual weekly synchronization with an automated daily process.
+- ⏱️ **Process redesign at P&G:** redesigned a weekly quote review and distribution process that took three hours of manual work, reducing it to 15–20 minutes and freeing up over 10 hours a month for the team.
+- 🧾 **End-to-end web app at HPE:** built a web application (C#, Blazor, EPPlus) to automate the cleaning and consolidation of 16,000 row reports from Power BI, eliminating a manual process that took nearly 4 hours daily.
+- 📈 **Power BI dashboards** adopted by entire teams as primary tools for operational decision-making.
+- 🗄️ **Geospatial data:** administered **PostgreSQL + PostGIS** databases, ensuring 99.9% data integrity and availability.
 
 ---
 
-##  🛠️ Tech Background
+## ☁️ Where I'm Going
+
+My automation work is moving to the cloud. I'm actively working on:
+
+- 🎓 Preparing for the **AWS Certified Cloud Practitioner** certification
+- 🛠️ Building a cloud portfolio project: an **AWS cost and resource auditor** in Python with boto3, developed in stages
+
+---
+
+## 🛠️ Tech Background
 
 ```
-Languages:     Python · C# · SQL · JavaScript
-Databases:     PostgreSQL · SQL Server · PostGIS
-Automation:    Power Automate · Azure WebJobs · REST APIs
-BI & Reporting: Power BI · Excel (advanced)
-Other:         Blazor · WordPress · QGIS · SharePoint
+Languages:      C# · Python · SQL · JavaScript · TypeScript
+Databases:      PostgreSQL · SQL Server · PostGIS
+Automation:     Power Automate · Power Apps · Office Scripts · Azure WebJobs · REST APIs
+BI & Reporting: Power BI · Excel
+Other:          Blazor · WordPress · SharePoint · QGIS
+Cloud:          AWS (learning)
 ```
 
 ---
 
-##  💼 Professional Experience Highlights
+## 💼 Professional Experience
 
-➡️ **P&G — Process Automation** *(Aug 2025 – Present)* <br>
-Automating supply chain workflows involving Excel + SharePoint + Power BI. Building dashboards that track OOQ savings by region and vendor with automated email delivery.
+➡️ **Procter & Gamble — Data Automation Engineer** *(Aug 2025 – Present)*<br>
+Designed automated solutions for critical workflows, including a weekly quote review and distribution process reduced from three hours to 15–20 minutes. Developed Power BI dashboards adopted by the full team for operational decision-making.
 
-➡️ **HPE — Process Automation** *(Sep 2021 – Jul 2023)*<br>
-Developed internal tools and automations: multi-platform sync via APIs, Excel transformation pipelines, and PowerPoint generation from live data — all in enterprise-grade C# and SQL.
+➡️ **Hewlett Packard Enterprise — Software Developer, Process Automation** *(Sep 2021 – Jul 2023)*<br>
+Built an end-to-end web application for report consolidation, developed synchronization logic between Azure Boards, Jira, and Smartsheet, and created automation bots with Power Automate, SharePoint, and Dataverse.
 
-➡️ **UNED — LIIT Lab** *(Sep 2016 – Dec 2019)*<br>
-Processed geospatial data using QGIS + PostGIS + PostgreSQL. Built and maintained web platforms. Documented end-to-end data ingestion workflows.
+➡️ **UNED (LIIT Lab) — Student Software Developer** *(Apr 2017 – Dec 2019)*<br>
+Built WordPress sites with Divi, customized sites with JavaScript, administered PostgreSQL + PostGIS geospatial data, and developed a CakePHP platform to centralize learning resources.
 
 ---
 
-##  📌 What You'll Find Here
+## 📌 What You'll Find Here
 
-This GitHub is my **learning-in-public** space during this transition:
+This GitHub is my **learning-in-public** space during my transition to the cloud:
 
-- 🧪 Data Engineering projects (pipelines, transformations, orchestration)
-- 🔧 Python scripts for data processing and automation
-- 📚 Exercises and studies in SQL, dbt, Airflow, and cloud platforms
-- 🔄 Real-world problems refactored from automation logic into data engineering patterns
+- ☁️ AWS projects and scripts (Python + boto3)
+- 🔧 Automation scripts and examples
+- 📚 Notes and exercises while preparing for AWS certifications
 
 ---
 
 ## 💡 Open To
 
-Remote opportunities and collaborations in **Data Engineering**, **Analytics Engineering**, or hybrid **Automation + Data** roles where my background adds immediate value while I grow into a full DE stack.
+Remote opportunities in **software engineering and automation**, where my background adds immediate value while I grow into the cloud.
 
 ---
 
-*"I've spent years making processes run themselves. Now I'm learning to make data flow."*
-</p>
+*"I've spent years making processes run themselves. Now I'm learning to run them in the cloud."*
 
- 
-## 📞 Contact:
-<h4>
-     <a href="mailto:hernan.araya96@outlook.com" style="text-align: center;">
-     📧 Email: hernan.araya96@outlook.com
-     </a>
-</h4>
-<h4>
-     <a href="https://github.com/haraya" style="text-align: center;">
-     📚 GitHub: github.com/haraya
-     </a>
-</h4>
+---
 
-<h4>
-     <a href="https://www.linkedin.com/in/hernanarayalopez/" style="text-align: center;">
-     💼🧑🏻‍💻 Linkedin: Hernán Araya L.
-     </a>
-</h4>
+## 📞 Contact
 
-
-
+- 🌐 Website: [hdesarrollocr.com](https://hdesarrollocr.com/)
+- 📧 Email: [hernan.araya96@outlook.com](mailto:hernan.araya96@outlook.com)
+- 💼 LinkedIn: [Hernán Araya L.](https://www.linkedin.com/in/hernanarayalopez/)
+- 📚 GitHub: [github.com/haraya](https://github.com/haraya)
