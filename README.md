@@ -28,14 +28,42 @@ My automation work is moving to the cloud. I'm actively working on:
 
 ## 🛠️ Tech Background
 
-```
-Languages:      C# · Python · SQL · JavaScript · TypeScript
-Databases:      PostgreSQL · SQL Server · PostGIS
-Automation:     Power Automate · Power Apps · Office Scripts · Azure WebJobs · REST APIs
-BI & Reporting: Power BI · Excel
-Other:          Blazor · WordPress · SharePoint · QGIS · KNIME
-Cloud:          AWS (learning)
-```
+<table>
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;"> Category </th>
+      <th style="border: 1px solid black;"> Technologies </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black;">Languages</td>
+      <td style="border: 1px solid black;">C# · Python · SQL · JavaScript · TypeScript</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;"> Databases </td>
+      <td style="border: 1px solid black;">  PostgreSQL · SQL Server · PostGIS </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;"> Automation </td>
+      <td style="border: 1px solid black;">  Power Automate · Power Apps · Office Scripts · Azure WebJobs · REST APIs </td>
+    </tr>
+   <tr>
+      <td style="border: 1px solid black;"> BI & Reporting </td>
+      <td style="border: 1px solid black;"> Power BI · Excel </td>
+    </tr>
+     <tr>
+      <td style="border: 1px solid black;"> Other </td>
+      <td style="border: 1px solid black;"> Blazor · WordPress · SharePoint · QGIS · KNIME </td>
+    </tr>
+       <tr>
+      <td style="border: 1px solid black;"> Cloud </td>
+      <td style="border: 1px solid black;">  AWS (learning) </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ---
 
